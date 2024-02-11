@@ -14,3 +14,4 @@ openAI key
 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
 ## coursera ML reference gitlink
 https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera
+### Next.nav is the VSCODE extension for watching workflow
