@@ -1,0 +1,1996 @@
+    1  ls
+    2  cd Keerti_Submissions/
+    3  ls
+    4  cd genetic\ algo/
+    5  ls
+    6  python3 ann_random.py 
+    7  python3 hillclimbing.py 
+    8  python3 genetic_algorithm.py 
+    9  ls
+   10  python3 ann.py
+   11  python3 ann_random.py
+   12  cd ..
+   13  ls
+   14  cd genetic\ algo/
+   15  ls
+   16  python3 genetic_algorithm.py 
+   17  cd ..
+   18  ls
+   19  cd annealing/
+   20  ls
+   21  python3 ann_random.py 
+   22  clear
+   23  ls
+   24  python3 ann.py
+   25  python3 genetic_algorithm.py 
+   26  clear
+   27  python3 ann_random.py 
+   28  python3 genetic_algorithm.py 
+   29  python3 ann_random.py 
+   30  clar
+   31  clear
+   32  python3 ann_random.py 
+   33  clear
+   34  python3 ann_random.py 
+   35  clear
+   36  python3 genetic_algorithm.py 
+   37  pip install nose
+   38  anaconda-navigator
+   39  pip install nose 
+   40  pip install --upgrade pip
+   41  ls 
+   42  npm install monaco-editor@0.34.1
+   43  sudo apt install yandex-browser-stable
+   44  gedit hello.txt
+   45  print("\033[1;30;47m N \033[1;31;47m e \033[1;32;47m t \033[1;33;47m f \033[1;34;47m l \033[1;35;47m i \033[1;36;47m x \033[0;37;47m")
+   46  python3
+   47  python3 
+   48  history
+   49  sudo docker ps -a
+   50  node scripts/server.js
+   51  ls
+   52  clear 
+   53  history
+   54  sudo docker start -i b66122d7736e
+   55  ipython nbconvert --to script --execute new_extract_captions_images (copy).ipynb -- output new_output.ipynb
+   56  ipython nbconvert --to script --execute new_extract_captions_images.ipynb -- output new_output.ipynb
+   57  jupyter nbconvert --to script --execute new_extract_captions_images.ipynb -- output new_output.ipynb
+   58  jupyter nbconvert --to script new_extract_captions_images.ipynb
+   59  node --version
+   60  npm --version
+   61  history
+   62  anaconda-navigator
+   63  npm start
+   64  npm install
+   65  npm start
+   66  curl -sL https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh -o install_nvm.sh
+   67  ls
+   68  bash install_nvm.sh
+   69  export NVM_DIR="$HOME/.nvm"
+   70  source ~/.bash_profile
+   71  gedit 
+   72  gedit ex.env
+   73  npm start
+   74  npm install
+   75  npm start 
+   76  node --version
+   77  npm install
+   78  curl -sL https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh -o install_nvm.sh
+   79  bash install_nvm.sh 
+   80  node git_data_fetcher.mjs 
+   81  history
+   82  npm run build
+   83  npm install 
+   84  npm start
+   85  npm run build
+   86  npm i
+   87  npm install && npm run build
+   88  npm install
+   89  npm start
+   90  git clone https://github.com/itznikhil/opPortfolio.git
+   91  npm start
+   92  ENV NODE_OPTIONS="--openssl-legacy-provider
+   93  npm start
+   94  exit
+   95  exit()
+   96  npm i
+   97  npm start
+   98  npm node 
+   99  history
+  100  curl -sL https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh -o install_nvm.sh
+  101  bash install_nvm.sh 
+  102  export NVM_DIR="$HOME/.nvm"
+  103  source ~/.bash_profile
+  104  command -v nvm
+  105  npm start
+  106  nvm install node
+  107  npm start
+  108  history
+  109  ENV NODE_OPTIONS="--openssl-legacy-provider
+  110  npm install jest
+  111  npm install -g joplin
+  112  npm fund
+  113  npm start
+  114  npm install 
+  115  npm install --legacy-peer-deps
+  116  sudo npm install npm -g
+  117  sudo apt-get install -y nodejs
+  118  npm install -g npm@latest
+  119  sudo apt-get install -y npm
+  120  sudo apt-get install aptitude
+  121  sudo aptitude install node-emoji-regex
+  122  sudo aptitude install node-agent-base
+  123  sudo aptitude install node-aproba
+  124  sudo aptitude install node-archy
+  125  sudo aptitude install node-cacache
+  126  sudo aptitude install node-chalk
+  127  sudo aptitude install node-cli-table3
+  128  sudo aptitude install node-colors
+  129  sudo aptitude install node-columnify
+  130  sudo aptitude install node-debug
+  131  sudo aptitude install node-emoji-regex
+  132  sudo aptitude install node-got
+  133  sudo aptitude install node-graceful-fs
+  134  python3 extract_captions_images.py
+  135  anaconda-navigator
+  136  git remote remove origin
+  137  rm rf .git
+  138  npm install && npm run build
+  139  git clone https://github.com/itznikhil/opPortfolio.git
+  140  cd opPortfolio/
+  141  ls
+  142  git remote remove origin
+  143  r -rf .git
+  144  rm -rf .git
+  145  npm install && npm run build
+  146  npm start
+  147  npm start
+  148  yarn install
+  149  npm install yarn
+  150  git remote remove origin
+  151  rm -rf .git
+  152  npm run build
+  153  npm install 
+  154  git init
+  155  git remote add origin https://github.com/Laxman824/laxman824.github.io
+  156  git add .
+  157  git commit -m 'Deploy to repository'
+  158  git push origin master
+  159  cd ..
+  160  ls
+  161  cd ..
+  162  npx create-react-app laxman824
+  163  cd laxman824
+  164  npm start
+  165  npm start
+  166  npm start
+  167  cd ..
+  168  ls
+  169  cd laxman824
+  170  npm install --save styled-components
+  171  npm install --save react-cursor-custom
+  172  npm install --save react-ga
+  173  npm install --save react-reveal
+  174  npm install --save react-glamor
+  175  npm install --save glamor
+  176  npm install --save react-router-dom
+  177  npm install --save styletroon-react
+  178  npm install --save react-reveal
+  179  npm install react-reveal --save
+  180  npm i --legacy-peer-deps
+  181  npm install react-reveal --save
+  182  npm i react
+  183  npm install --save react-bootstrap
+  184  npm start
+  185  git clone https://github.com/ashutosh1919/masterPortfolio.git
+  186  cd masterPortfolio/
+  187  ls
+  188  clar 
+  189  clear
+  190  npm install 
+  191  npm start 
+  192  SKIP_PREFLIGHT_CHECK=true
+  193  npm start 
+  194  npm ls babel-jest
+  195  npm start 
+  196  npm start
+  197  bash install_nvm.sh 
+  198  npm start
+  199  git remote remove origin
+  200  rm -rf .git
+  201  npm install && npm run build
+  202  npx create-react-app my-app
+  203  cd ..
+  204  ls
+  205  cd laxman824
+  206  npm start
+  207  gedit ex.env
+  208  git clone https://github.com/itznikhil/opPortfolio.git
+  209  python3 
+  210  node scripts/server.js
+  211  history
+  212  node scripts/server.js
+  213  node scripts/server.js
+  214  sudo docker ps -a
+  215  historysudo docker start -i b66122d7736e
+  216  sudo docker start -i b66122d7736e
+  217  node scripts/server.js
+  218  python file.py
+  219  node scripts/server.js
+  220  node scripts/server.js
+  221  python file.py
+  222  node scripts/server.js
+  223  python scripts/file.py uploads/Lucky_12/research_paper_2022_12_28T08_04_43.pdf/research_paper_2022_12_28T08_04_43.out.html
+  224  python scripts/file.py /uploads/Lucky_12/research_paper_2022_12_28T08_04_43.pdf/research_paper_2022_12_28T08_04_43.out.html
+  225  python3 relevant_captions.py 
+  226  node scripts/server.js
+  227  sudo docker start -i b66122d7736e
+  228  ls
+  229  gedit file.py
+  230  ls
+  231  python3 scripts/relevant_captions.py /uploads/Lucky_12/research_paper_2022_12_28T08_04_43.pdf/research_paper_2022_12_28T08_04_43.out.html
+  232  python scripts/relevant_captions.py /uploads/Lucky_12/research_paper_2022_12_28T08_04_43.pdf/research_paper_2022_12_28T08_04_43.out.html
+  233  clear
+  234  python scripts/relevant_captions.py /uploads/Lucky_12/research_paper_2022_12_28T08_04_43.pdf/research_paper_2022_12_28T08_04_43.out.html
+  235  pip3 install pyqt5
+  236  sudo apt-get install libx11-xcb1
+  237  pip3 install opencv-python
+  238  sudo apt-get install qt5-default
+  239  pip3 install python-opencv-headless
+  240  pip3 install --upgrade pyqt5_tools
+  241  sudo apt-get install libxkbcommon-x11-0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-randr0 libxcb-render-util0 libxcb-xinerama0 libxcb-xfixes0 libegl1-mesa
+  242  pip install orange3
+  243  pip3 install beautifulsoup
+  244  pip3 install beautifulsoup4
+  245  clear
+  246  python scripts/relevant_captions.py /uploads/Lucky_12/research_paper_2022_12_28T08_04_43.pdf/research_paper_2022_12_28T08_04_43.out.html
+  247  pip3 install numexpr
+  248  sudo apt-get install python3-numexpr
+  249  pip3 install scikit-learn --upgrade
+  250  pip3 install pandas
+  251  pandas --version
+  252  pip3 show pandas --version
+  253  pip3 install pandas --upgrade
+  254  gedit relevant_lax.py
+  255  sudo pip install numpy --upgrade
+  256  clear
+  257  python scripts/relevant_captions.py /uploads/Lucky_12/research_paper_2022_12_28T08_04_43.pdf/research_paper_2022_12_28T08_04_43.out.html
+  258  cd pdf2charinfo/
+  259  ls
+  260  cd pdf2charinfo/
+  261  python scripts/relevant_captions.py /uploads/Lucky_12/research_paper_2022_12_28T08_04_43.pdf/research_paper_2022_12_28T08_04_43.out.html
+  262  pip install --upgrade numexpr
+  263  python scripts/relevant_captions.py /uploads/Lucky_12/research_paper_2022_12_28T08_04_43.pdf/research_paper_2022_12_28T08_04_43.out.html
+  264  clear
+  265  python scripts/relevant_captions.py ./uploads/Lucky_12/research_paper_2022_12_28T08_04_43.pdf/research_paper_2022_12_28T08_04_43.out.html
+  266  python3 relevant_lax.py
+  267  npm start
+  268  sudo apt update
+  269  sudo apt install snapd
+  270  sudo snap install whatsapp-for-linux
+  271  node scripts/server.js
+  272  sudo docker start -i b66122d7736e
+  273  node scripts/server.js
+  274  sudo docker start -i b66122d7736e
+  275  node scripts/server.js
+  276  sudo ps -u
+  277  sudo docker ps -a
+  278  sudo docker start -i b66122d7736e
+  279  node scripts/server.js
+  280  sudo docker ps -a
+  281  sudo docker start -i b66122d7736e
+  282  sudo docker start -i b66122d7736e
+  283  node scripts/server.js
+  284  ls
+  285  node scripts/server.js
+  286  python relevant_lax.py
+  287  python relevant_captions.py ./untitled-2.html
+  288  python relevant_captions.py ./sample.html
+  289  python relevant_lax.py ./iesc105.pdf
+  290  cd ..
+  291  cd 
+  292  cd pdf2charinfo/
+  293  ls 
+  294  cd scripts
+  295  ls
+  296  clear
+  297  python relevant_lax.py ./iesc105.pdf
+  298  python relevant_captions.py ./iesc105.pdf
+  299  python relevant_captions.py ./untitled-2.xhtml
+  300  clear
+  301  python relevant_captions.py ./untitled-2.html
+  302  ./script.sh
+  303  sudo ./script.sh
+  304  chmod+x ./script.sh 
+  305  chmod +x ./script.sh 
+  306  gedit script.sh
+  307  python relevant_captions.py ./sample.html
+  308  python relevant_captions.py ./
+  309  python relevant_captions.py ./iesc105-1_2023_01_02T07_38_03.out.mod.html
+  310  opencv --versioin
+  311  opencv --version
+  312  history
+  313  history
+  314  python3 relevant_lax.py iesc105-1_2023_01_02T07_38_03.out.mod.html
+  315  chmod +x ./script.sh 
+  316  ./script.sh
+  317  chmod +x ./script.sh 
+  318  ./script.sh
+  319  anaconda-navigator
+  320  python3 a1.py
+  321  sudo snap install mailspring
+  322  git lcone https://github.com/gprateek93/Numerical-Algorithms.git
+  323  git clone https://github.com/gprateek93/Numerical-Algorithms.git
+  324  gedit ex.py
+  325  python3 ex.py
+  326  python3 a1.py
+  327  sudo apt update 
+  328  sudo apt install snapd
+  329  sudo snap install swi-prolog
+  330  npm start -i
+  331  sml avl.sml
+  332  sml testing.sml
+  333  npm start -i 
+  334  npm ls babel-jest
+  335  babel-jest
+  336  npm list babel-jest
+  337  npm install babel-jest@^24.9.0 --save-dev
+  338  npm start -i 
+  339  sudo apt-get install smlnj
+  340  sml
+  341  npm run build
+  342  npm install -g serve
+  343  serve -s build
+  344  npm run build
+  345  https://github.com/Hrishi1999/opPortfolio.git
+  346  git clone https://github.com/Hrishi1999/opPortfolio.git
+  347  npm i 
+  348  npm start
+  349  o
+  350  ls
+  351  cd opPortfolio/
+  352  ls
+  353  npm start
+  354  npm install
+  355  npm start
+  356  ssh cs5180408@cse.iitd.ac.in
+  357  sudo ssh cs5180408@cse.iitd.ac.in
+  358  sudo ssh cs5180408@jhelum.cse.iitd.ac.in
+  359  cd bdim
+  360  sml bdim.sml
+  361  sml sss.sml
+  362  cd ..
+  363  sml smlbasics.sml 
+  364  sml testing.sml 
+  365  sml
+  366  sudo apt-get install smlnj
+  367  smlnj
+  368  sudo add-apt-repository ppa:kflarsen/mosml
+  369  sudo apt-get update
+  370  sudo apt-get install mosml
+  371  sml
+  372  npm start
+  373  tar -xzf config.tgz
+  374  ls
+  375  cd config/
+  376  ls
+  377  cat targets 
+  378  ls
+  379  install.sh
+  380  config/install.sh
+  381  cd 
+  382  cd Downloads/
+  383  cd SML
+  384  ls
+  385  tar -xzf config.tgz
+  386  ls
+  387  config/install.sh -64
+  388  config/install.sh 
+  389  sudo apt-get install ml-yacc
+  390  config/install.sh 
+  391  sudo apt-get install ml-burg
+  392  config/install.sh 
+  393  sudo apt-get install ml-burg.amd64-linux
+  394  sudo apt-get install ml-burg
+  395  config/install.sh 
+  396  sudo apt-get update 
+  397  config/install.sh 
+  398  config/install.sh -default 64
+  399  config/install.sh 64
+  400  % config/install.sh
+  401  config/install.sh
+  402  config/install.sh -64
+  403  config/install.sh 
+  404  sudo apt-get install ml-burg
+  405  sudo apt-get update
+  406  sudo apt-get install -y ml-burg
+  407  apt-get install ml-burg
+  408  npm start
+  409  sml testing.sml
+  410  gedit hai.py
+  411  python3 hai.py
+  412  tar xaf Downloads/anki-2.1.XX-linux-qt6.tar.zst
+  413  cd anki-2.1.XX-linux-qt6
+  414  sudo ./install.sh
+  415  cd ..tar xaf Downloads/anki-2.1.XX-linux-qt6.tar.zst
+  416  cd ..
+  417  tar xaf Downloads/anki-2.1.XX-linux-qt6.tar.zst
+  418  tar xaf anki-2.1.56-linux-qt6.tar.zst
+  419  cd Downloads
+  420  tar xaf anki-2.1.56-linux-qt6.tar.zst
+  421  cd anki-2.1.XX-linux-qt6
+  422  cd anki-2.1.56-linux-qt6.tar.zst
+  423  cd anki-2.1.56-linux-qt6
+  424  sudo ./install.sh
+  425  anki
+  426  sudo apt install anki 
+  427  python3 Question\ 1
+  428  python3 Question\ 1.py
+  429  python3 Question\ 2.py
+  430  python3 Question\ 3.py
+  431  python3 Question\ 1.py
+  432  python3 Question\ 2.py
+  433  python3 Question\ 3.py
+  434  config/install.sh 
+  435  npm start
+  436  sudo apt-get update
+  437  gedit sqrt.slml
+  438  gedit sqrt.sml
+  439  sml sqrt.sml
+  440  sml avl.sml
+  441  cd ASS1
+  442  ls
+  443  sml sss.sml
+  444  cd Downloads/semester/10
+  445  cd Downloads
+  446  cd semester\ 10/
+  447  cd COL226\(PL\)/
+  448  cd ASS1/
+  449  ls
+  450  clear
+  451  sml sss.sml
+  452  unzip temp_merge_jan.zip 
+  453  ls
+  454  whoami
+  455  ls -ld ~/Desktop
+  456  https://github.com/ayush2390/Disney-Plus-Clone.git
+  457  git clone https://github.com/ayush2390/Disney-Plus-Clone.git
+  458  cd Disney-Plus-Clone/
+  459  npm start
+  460  npm run build
+  461  npm start
+  462  ls
+  463  npm i 
+  464  npm start
+  465  npm i
+  466  npm start
+  467  git clone https://github.com/ayush2390/Youtube-Clone.git
+  468  npm start
+  469  cd 
+  470  cd Desktop/
+  471  ls
+  472  cd portfolio/
+  473  npm start
+  474  ls
+  475  cd opPortfolio/
+  476  npm start
+  477  node scripts/server.js
+  478  hai
+  479  cd 
+  480  cd Downloads
+  481  cd semester\ 10/
+  482  cd COL226\(PL\)/
+  483  ls ASS1
+  484  ls
+  485  clear 
+  486  sml basic.sml
+  487  ls
+  488  cd ASS1/
+  489  ls
+  490  sml basic.sml
+  491  dml
+  492  sml 
+  493  gedit proof.txt
+  494  gedit isqrld.sml
+  495  sml
+  496  sml 
+  497  ls
+  498  sml new.sml
+  499  sml new.sml
+  500  gedit isqrtld.py
+  501  ls
+  502  gedit pseudo.txt
+  503  sml
+  504  clar
+  505  clear
+  506  sml
+  507  sml 
+  508  sml new.sml
+  509  clear
+  510  sml old.sml
+  511  clear
+  512  sml old.sml
+  513  ext install DanielSanMedium.dscodegpt
+  514  python3 Q1.py
+  515  python3 q1.py
+  516  python3 q2.py
+  517  python3 q1.py
+  518  python3 q2(1).py
+  519  python3 q2(2).py
+  520  clear
+  521  python3 q1(1).py
+  522  python3 q1.py
+  523  python3 q2.py
+  524  python3 q1.py
+  525  python3 q2.py
+  526  python3 q1(1).py
+  527  python3 q1\(1).py
+  528  python3 q1.py
+  529  python3 q2.py
+  530  python3 q1.py
+  531  python3 q2.py
+  532  python3 q1(1).py
+  533  python3 q1\ \(1\).py 
+  534  python3 q2\ \(1\).py 
+  535  clear
+  536  python3 q1.py
+  537  python3 q2.py
+  538  python3 q2\ \(2\).py 
+  539  python3 q1\ \(2\).py 
+  540  python3 q1.py
+  541  python3 q2.py
+  542  python3 q1\ \(1\).py 
+  543  python3 q2\ \(1\).py 
+  544  python3 1.py 
+  545  python3 2.py 
+  546  python3 q1\ \(2\).py 
+  547  python3 q2\ \(2\).py 
+  548  python3 q1\ \(3\).py 
+  549  python3 q2\ \(3\).py 
+  550  python3 q1\ \(3\).py 
+  551  python3 q2\ \(3\).py 
+  552  python3 q1.py 
+  553  python3 q2.py 
+  554  python3 q2\ \(1\).py 
+  555  python3 q1\ \(1\).py 
+  556  python3 q12.py 
+  557  python3 ha.py 
+  558  node scripts/server.js
+  559  node scripts/server.js
+  560  sudo docker start -i b66122d7736e
+  561  node scripts/server.js
+  562  node scripts/server.js
+  563  ls
+  564  git clone https://github.com/nehamjadhav/pdf2charinfo.git
+  565  git clone -b tempMergeForTesting https://github.com/nehamjadhav/pdf2charinfo.git
+  566  node scripts/server.js
+  567  gedit ass_1.sml
+  568  gedit input.txt
+  569  gedit output.txt
+  570  gedit dup.sml
+  571  sml dup.sml
+  572  gedit dup.sml
+  573  sml ass_1.sml 
+  574  ls
+  575  sml dup.sml
+  576  python3 main.py
+  577  gedit hell.txt
+  578  sml isqrtld.sml 
+  579  sml new.sml
+  580  sudo docker start -i b66122d7736e
+  581  node scripts/server.js
+  582  bash run.sh
+  583  sml main.sml
+  584  sml MarkDown.sml 
+  585  sml final.sml
+  586  sml sak2.sml
+  587  cd scripts/
+  588  sml final.sml
+  589  sml sak2.sml
+  590  bash run.sh
+  591  sml final.sh
+  592  sml final.sml
+  593  sml use"sak2.sml";
+  594  ls
+  595  sml use"sak2.sml";
+  596  sml use "sak2.sml";
+  597  sml Assignment2.sml 
+  598  sml main.sml
+  599  sml MarkDown.sml 
+  600  gedit tet.txt
+  601  sml use "MarkDown.sml"
+  602  sml use"mdt2html.sml"
+  603  sml use "mdt2html.sml"
+  604  cd ..
+  605  cd Markdown-rahul
+  606  ls
+  607  sml MarkDown.sml 
+  608  sml use "mdt2html.sml"
+  609  clear
+  610  sml use "mdt2html.sml"
+  611  python q1.py
+  612  python q2.py
+  613  cd ..
+  614  python q1.py
+  615  cd labtest3/
+  616  ls
+  617  python q1.py
+  618  python q2.py
+  619  python q1.py
+  620  python q2.py
+  621  python q1.py
+  622  python q2.py
+  623  python q1.py
+  624  python q2.py
+  625  python q1.py
+  626  python q2.py
+  627  python q1.py
+  628  python q2.py
+  629  python q1.py
+  630  python q2.py
+  631  ping https://www.cse.iitd.ac.in/~amitk/SemII-2017/
+  632  ping https://www.cse.iitd.ac.in/~amitk/
+  633  sudo ssh cs5180408@jhelum.cse.iitd.ac.in
+  634  pyhton3 q1.py
+  635  python3 q1.py
+  636  python3 q2.py
+  637  python3 q1.py
+  638  python3 q2.py
+  639  python3 assignment\ 8.py 
+  640  python3 q1.py
+  641  python3 q2.py
+  642  sml "use mdt2html.sml"
+  643  python3 assignment_8.py
+  644  python3 ass8.py
+  645  python assignment.py
+  646  cd Downloads
+  647  ls
+  648  python3 1.py
+  649  python3 2.py
+  650  gedit q7.py
+  651  python3 q7.py
+  652  gedit dup.py
+  653  python3 dup.py
+  654  python3 q8.py
+  655  gedit q9.py
+  656  python3 q9.py
+  657  gedit q8.py
+  658  python3 q8.py
+  659  node scripts/server.js
+  660  gedit q6.py
+  661  python3 q6.py
+  662  python3 dup.py
+  663  snap --version
+  664  sudo snap install core
+  665  sudo snap install --devmode --beta anbox
+  666  snap help refresh 
+  667  sudo snap install --devmode --beta anbox
+  668  install-snap
+  669  sudo snap install --devmode --beta anbox
+  670  sudo apt install curl ca-certificates -y
+  671  curl https://repo.waydro.id | sudo bash
+  672  sudo apt install waydroid -y
+  673  sudo systemctl enable --now waydroid-container
+  674  sudo waydroid container start
+  675  waydroid init
+  676  sudo waydroid init
+  677  sudo waydroid container start
+  678  waydroid init
+  679  sudo waydroid init
+  680  sudo systemctl enable --now waydroid-container
+  681  screenfetch
+  682  sudo apt install screenfetch
+  683  sudo systemctl enable --now waydroid-container
+  684  waydroid show-full-ui
+  685  /run/user/1000/wayland-0
+  686  waydroid session stop
+  687  sudo waydroid container stop 
+  688  waydroid show-full-ui
+  689  ps -u
+  690  sudo snap abort anbox
+  691  ps
+  692  sudo snap abort 77312
+  693  sudo snap install --devmode --beta anbox
+  694  sudo apt install anbic
+  695  sudo apt install anbox
+  696  sudo snap install anbox
+  697  snap install --edge anbox
+  698  snap install --beta --anbox
+  699  sudo snap install --devmode --beta anbox
+  700  ps -u
+  701  sudo snap install --devmode --beta anbox
+  702  waydroid show-full-ui
+  703  sudo apt remove waydroid
+  704  waydroid show-full-ui
+  705  sudo snap install --devmode --beta anbox
+  706  waydroid show-full-ui
+  707  waydroid session start
+  708  sudo waydroid container start
+  709  /etc/gdm3/daemon.conf
+  710  waydroid show-full-ui
+  711  ps -u
+  712  killall
+  713  killall -STOP 13092
+  714  ps -u
+  715  waydroid show-full-ui
+  716  killall -STOP 82597
+  717  sudo apt install wget curl lzip tar unzip squashfs-tools
+  718  wget https://raw.githubusercontent.com/geeks-r-us/anbox-playstore-installer/master/install-playstore.sh
+  719  chmod +x install-playstore.sh
+  720  ./install-playstore.sh
+  721  anbox.appmgr
+  722  waydroid show-full-ui
+  723  node scripts/server.js
+  724  cd pdf2charinfo/
+  725  node scripts/server.js
+  726  cd pdf2charinfo/
+  727  ls
+  728  node scripts/server.js
+  729  cd pdf2charinfo/
+  730  node scripts/server.js
+  731  clear
+  732  node scripts/server.js
+  733  python3 layout.py
+  734  python3 layoyt.py 
+  735  cd pdf2charinfo/
+  736  node scripts/server.js
+  737  gedit layoyt.py
+  738  python3 layoyt.py 
+  739  python3 layoyt.py img1.png
+  740  python3 layoyt.py 
+  741  clear
+  742  python3 layoyt.py 
+  743  pip3 install -U layoutparser
+  744  pip3 install -U layoutparser[ocr]
+  745  python3 layoyt.py 
+  746  pip3 install 'git+https://github.com/facebookresearch/detectron2.git@v0.4#egg=detectron2' 
+  747  clear
+  748  python3 layoyt.py 
+  749  anaconda-navigator
+  750  pip install layoutparser[ocr]     
+  751  git clone https://github.com/Layout-Parser/layout-parser.git
+  752  cd layout-parser/
+  753  ls
+  754  python3 layoyt.py 
+  755  gedit scipt.sh
+  756  pip3 install --upgrade pillow==6.2.2 
+  757  pip3 install --upgrade pillow
+  758  pip3 install spacy
+  759  pip3 install spacy-transformers
+  760  python -m spacy download en_core_web_trf
+  761  pip3 install click==7.1.1
+  762  pip3 install click==7.1.2
+  763  sudo apt-get update
+  764  pip3 install opencv-python-headless
+  765  pip3 install pytest
+  766  pip3 install torch
+  767  pip3 install numpy
+  768  pip3 install pandas
+  769  pip3 install docutils==0.16
+  770  pip3 install Sphinx==3.0.0
+  771  recommonmark --version 
+  772  pip3 install recommonmark
+  773  pip3 install sphinx-markdown-tables
+  774  pip3 install sphinx_rtd_theme
+  775  pip3 install pycoocotools
+  776  pip3 install pycocotools
+  777  pip3 install paddlepaddle
+  778  pip3 install effdet
+  779  git+https://github.com/facebookresearch/detectron2.git@v0.4#egg=detectron2
+  780  pip install 'git+https://github.com/facebookresearch/detectron2.git@v0.4#egg=detectron2' 
+  781  python3 layoyt.py 
+  782  pip3 install layoutparser # Install the base layoutparser library with  
+  783  pip3 install "layoutparser[layoutmodels]" # Install DL layout model toolkit 
+  784  pip3 install "layoutparser[ocr]" # Install OCR toolkit
+  785  pip install "layoutparser[paddledetection]"
+  786  pip install "layoutparser[ocr]"
+  787  pip install "layoutparser[paddledetection]"
+  788  anbox.appmgr
+  789  pip install "layoutparser[effdet]"
+  790  pip install layoutparser torchvision && pip install "git+https://github.com/facebookresearch/detectron2.git@v0.5#egg=detectron2"
+  791  cd Desktop/
+  792  ls
+  793  cd MTP`
+  794  exit
+  795  exit()
+  796  python3 setup.py 
+  797  git+https://github.com/facebookresearch/detectron2.git@v0.4#egg=detectron2
+  798  python -c "import layoutparser"
+  799  python -c "import layoutparse"
+  800  pip uninstall pillow
+  801  pip install --upgrade pillow
+  802  pillow --version
+  803  pip install --upgrade pillow==6.2.2
+  804  python3 layoyt.py 
+  805  cd ..
+  806  cd Desk
+  807  cd Desktop/
+  808  ls
+  809  cd MTP2/
+  810  ls
+  811  python3 layoyt.py 
+  812  pip3 install torch --upgrade 
+  813  python3 layoyt.py 
+  814  pip3 install detectron2 --upgrade
+  815  python3 layoyt.py 
+  816  torch --version
+  817  python3
+  818  clear
+  819  pip3 install protobuf==3.20.0
+  820  python3 layoyt.py 
+  821  anaconda-navigator
+  822  conda update anaconda-navigator
+  823  anaconda-navigator
+  824  source ~/anaconda3/bin/activate root
+  825  anaconda-navigator
+  826  conda update conda
+  827  conda create mtp
+  828  conda create --mtp
+  829  conda deactivate
+  830  conda activate 
+  831  conda install anaconda-navigator
+  832  anaconda-navigator
+  833  rm -rf ~/anaconda3
+  834  rm -rf ~/anaconda
+  835  unistall anaconda
+  836  ~/.bash_profile
+  837  ~/.bash_laxman
+  838  /etc/laxman
+  839  ~/.bashrc
+  840  sudo ~/.bashrc
+  841  export PATH="/path/to/anaconda-install-location/bin:$PATH"
+  842  sudo rm -rf ~/anaconda3 ~/.condarc ~/.conda ~/.continuum 
+  843  sudo rm -rf ~/anaconda ~/.condarc ~/.conda ~/.continuum 
+  844  PATH="/home/laxman/anaconda/bin:$PATH
+  845  source ~/.bashrc
+  846  exit
+  847  exit
+  848  source ~/.bashrc
+  849  PATH="/home/laxman/anaconda/bin:$PATH
+  850  conda -V
+  851  conda --version
+  852  anaconda-navigator
+  853  apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6
+  854  torch --version
+  855  python3 layoyt.py 
+  856  pip3 install opencv
+  857  pip install opencv-python
+  858  pip3 install -U layoutparser
+  859  pip3 install 'git+https://github.com/facebookresearch/detectron2.git@v0.4#egg=detectron2' 
+  860  pip3 install torch
+  861  pip3 install 'git+https://github.com/facebookresearch/detectron2.git@v0.4#egg=detectron2' 
+  862  clear
+  863  pip3 install -U layoutparser
+  864  pip3 install 'git+https://github.com/facebookresearch/detectron2.git@v0.4#egg=detectron2' 
+  865  pip3  install U  "layoutparser[ocr]"
+  866  pip3  install -U  "layoutparser[ocr]"
+  867  pip3 install -U layoutparser
+  868  clear
+  869  pip install 'git+https://github.com/facebookresearch/detectron2.git@v0.4#egg=detectron2' 
+  870  python3 layoyt.py 
+  871  pip3 install -U torchvision
+  872  python3 layoyt.py 
+  873  pip3 install effdet
+  874  python3 layoyt.py 
+  875  clear
+  876  python3 layoyt.py 
+  877  python3 --version
+  878  ls
+  879  sudo apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6
+  880  cd Downloads/
+  881  shasum -a 256 Anaconda3-2022.10-Linux-x86_64.sh 
+  882  python3 --version
+  883  bash ~/Downloads/Anaconda3-2022.10-Linux-x86_64.sh 
+  884  source ~/.bashrc
+  885  anaconda-navigator
+  886  pip install spacy
+  887  pip install spacy-transformers
+  888  python -m spacy download en_core_web_trf
+  889  pip install spacy-transformers
+  890  python -m spacy download en_core_web_trf
+  891  pip install click==7.1.1
+  892  python -m pip install -U "layoutparser[ocr]"
+  893  npm run i
+  894  npm start
+  895  npm run build
+  896  npm start
+  897  sudo mkdir -p /usr/local/MATLAB/R2019b/
+  898  cd matlab_R2022b_glnxa64/
+  899  sudo ./install
+  900  sudo wget -qO /usr/share/icons/matlab.png http://bit.ly/2SUSFo3
+  901  sudo wget -qO /usr/share/applications/matlab.desktop http://bit.ly/2vcomAf
+  902  sudo nano /usr/share/applications/matlab.desktop
+  903  sudo ./install
+  904  python3 q9.py
+  905  sudo apt-get install vainfo lshw
+  906  sudo apt-get install libgl1-mesa-dri
+  907  sudo add-apt-repository universe
+  908  sudo apt-get install pymol
+  909  python3 q9.py
+  910  clea
+  911  python3 q9.py
+  912  python3 q6.py
+  913  clear
+  914  python3 q6.py
+  915  python3 q7.py
+  916  python3 q6.py
+  917  python3 q7.py
+  918  clear
+  919  python3 q7.py
+  920  python3 q8.py
+  921  python3 q9.py
+  922  anaconda-navigator
+  923  sudo mkdir -p /opt/pycharm-community
+  924  ls
+  925  cd pycharm\ community/
+  926  ls
+  927  sudo gedit /usr/share/applications/pycharm-community.desktop
+  928  ls
+  929  sudo tar -zxf pycharm-community-2022.3.tar.gz --strip-components=1 -C /opt/pycharm-community/
+  930  ./pycharm.sj
+  931  ./pycharm.sh
+  932  cd pychar
+  933  cd pycharm-community-2022.3.2/
+  934  ls
+  935  ./pycharm.sh
+  936  cd ..
+  937  cd bin
+  938  ls
+  939  cd pycharm-community-2022.3.2/
+  940  ls
+  941  cd bin
+  942  ls
+  943  ./pycharm.sh
+  944  sudo apt-update kazam
+  945  ~/.config/JetBrains/PyCharmCE2022.3.
+  946  cd bin
+  947  ls
+  948  ~/.config/JetBrains/PyCharmCE2022.3.
+  949  cd 
+  950  pycharm
+  951  /bin/python3
+  952  python3 day1.pu
+  953  python3 day1.py
+  954  cd DAY1/
+  955  ls
+  956  clear
+  957  /bin/python3 /home/laxman/Desktop/PYTHON/DAY1/day1.py
+  958  node scripts/server.js
+  959  dpkg --list
+  960  ls /usr/share/applications/
+  961  sudo apt-get remove anki.desktop
+  962  sudo apt-get purge postman
+  963  ls /usr/share/apps/
+  964  wget -O droidcam_latest.zip https://files.dev47apps.net/linux/droidcam_1.8.2.zip
+  965  unzip droidcam_latest.zip -d droidcam
+  966  cd droidcam/
+  967  sudo ./install-client
+  968  sudo apt install libappindicator3-1
+  969  sudo apt-get install adb
+  970  pip install playsound
+  971  /bin/python3
+  972  ls
+  973  cd DAY1/
+  974  ls
+  975  python3 day1.py
+  976  clear
+  977  python3 day1.py
+  978  clear
+  979  python3 day1.py
+  980  clear
+  981  python3 day1.py
+  982  clar
+  983  clear
+  984  python3 day1.py
+  985  clear
+  986  python3 day1.py
+  987  cd DAY1/
+  988  ls
+  989  python3 day2.py
+  990  clear
+  991  python3 day2.py
+  992  clar
+  993  clear
+  994  python3 day2.py
+  995  /bin/python3
+  996  cd DAY1/
+  997  ls
+  998  clear
+  999  anaconda-navigator
+ 1000  pip install notebook
+ 1001  jupyter notebook
+ 1002  git clone https://github.com/tamojit-123/portfolio.git
+ 1003  npm start
+ 1004  cd pdf2charinfo/
+ 1005  ls
+ 1006  node scripts/server.js
+ 1007  cd pdf2charinfo/
+ 1008  ls
+ 1009  node scripts/server.js
+ 1010  jupyter notebook
+ 1011  df -H
+ 1012  snap install shotcut --classic
+ 1013  shotcut
+ 1014  cd DAY1/
+ 1015  python3 day6.py
+ 1016  cd day6.py
+ 1017  ls
+ 1018  python3 day6.py 
+ 1019  python3 
+ 1020  df -H
+ 1021  df -H /dev/sda8
+ 1022  df -H /dev/sda8 -H
+ 1023  nusmv
+ 1024  NuSMV
+ 1025  cd 
+ 1026  export PATH=${PATH}:Downloads/NUSMV-2.6.0-Linux/bin
+ 1027  export NUSMV_LIBRARY_PATH=Downloads/NuSMV-2.6.0-Linux/share/nusmv/
+ 1028  NuSMV -int
+ 1029  sudo /etc/bash.bashrc
+ 1030  /etc/bash.bashrc
+ 1031  sudo /etc/bash.bashrc
+ 1032  export PATH=${PATH}:Downloads/NUSMV-2.6.0-Linux/bin
+ 1033  export NuSMV_LIBRARY_PATH=Downloads/NuSMV-2.6.0-Linux/share/nusmv/
+ 1034  NuSMV -int
+ 1035  export PATH=${PATH}:Downloads/NUSMV-2.6.0-Linux/bin
+ 1036  export NuSMV_LIBRARY_PATH=Downloads/NuSMV-2.6.0-Linux/share/nusmv/
+ 1037  NuSMV -int
+ 1038  source ~./bashrc
+ 1039  sml use "mdt2html.sml"
+ 1040  build
+ 1041  make
+ 1042  cd ..
+ 1043  l
+ 1044  ls
+ 1045  mkdir build
+ 1046  cd 
+ 1047  vi ~/.bashrc
+ 1048  gedit ~/.bashrc
+ 1049  gedit exer.smv
+ 1050  NuSMV -int exer.smv
+ 1051  ./NuSMV exer.smv
+ 1052  Nusmv -int
+ 1053  Nusmv -init
+ 1054  make install 
+ 1055  make
+ 1056  cd ..
+ 1057  build
+ 1058  make
+ 1059  ks
+ 1060  ls
+ 1061  cd build
+ 1062  make install
+ 1063  build
+ 1064  ls
+ 1065  cd bin 
+ 1066  cd ..
+ 1067  cd bin
+ 1068  ls
+ 1069  sudo chmod _x Nusmv
+ 1070  sudo chmod +x Nusmv
+ 1071  ls
+ 1072  sudo chmod +x NuSMV
+ 1073  ./NuSMV
+ 1074  NuSMV -int
+ 1075  sudo chmod +x NuSMV
+ 1076  ./NuSMV
+ 1077  ls
+ 1078  ./NuSMV exer.smv
+ 1079  ls
+ 1080  sudo dpkg -i microsoft-edge-stable_111.0.1661.41-1_amd64.deb
+ 1081  ./NuSMV exer.smv
+ 1082  ./NuSMV home/laxman/Downloads/exer.smv
+ 1083  ./NuSMV exer.smv
+ 1084  NuSMV
+ 1085  exer.smv
+ 1086  NuSMV -int
+ 1087  read_model -i intro.smv
+ 1088  gedit 2_1.smv
+ 1089  ./NuSMV 2_1.smv
+ 1090  ls
+ 1091  cd ..
+ 1092  ls
+ 1093  ./NuSMV 2_1.smv
+ 1094  NuSMV -int
+ 1095  ./NuSMV exer.smv
+ 1096  ls
+ 1097  gedit bigint.sml
+ 1098  ls
+ 1099  use "bigint.sml";
+ 1100  sml use "bigint.sml";
+ 1101  gedit 2_3.smv
+ 1102  gedit 2_5.smv
+ 1103  gedit 2_f.smv
+ 1104  gedit 2_g.smv
+ 1105  gedit 6_1.smv
+ 1106  gedit 1_1.smv
+ 1107  gedit 1_2.smv
+ 1108  gedit 1_3.smv
+ 1109  gedit 1_4.smv
+ 1110  gedit 1_5.smv
+ 1111  ./NuSMV 1_1.smv
+ 1112  gedit 6_1.smv
+ 1113  gedit 6_2.smv
+ 1114  ./NuSMV 6_1.smv
+ 1115  ./NuSMV 6_2.smv
+ 1116  gedit 1_orig.smv
+ 1117  ./NuSMV 1_orig.smv
+ 1118  cleae
+ 1119  clear
+ 1120  ./NuSMV 1_orig.smv
+ 1121  ls
+ 1122  ./NuSMV 1_orig.smv
+ 1123  df -H
+ 1124  clear 
+ 1125  ./NuSMV 2_1.smv
+ 1126  ./NuSMV 2_2.smv
+ 1127  ./NuSMV 2_3.smv
+ 1128  ./NuSMV 2_1.smv
+ 1129  ./NuSMV 2_3.smv
+ 1130  ./NuSMV 2_5.smv
+ 1131  ./NuSMV 2_f.smv
+ 1132  ./NuSMV 2_1.smv
+ 1133  ./NuSMV 1_1.smv
+ 1134  ./NuSMV 1_orig.smv
+ 1135  ./NuSMV 2_1.smv
+ 1136  ./NuSMV 1_1.smv
+ 1137  ./NuSMV 1_2.smv
+ 1138  ./NuSMV 1_5.smv
+ 1139  ./NuSMV 2_1.smv
+ 1140  ./NuSMV 2_5.smv
+ 1141  ./NuSMV 2_f.smv
+ 1142  ./NuSMV 2_g.smv
+ 1143  ./NuSMV 2_3.smv
+ 1144  ./NuSMV 1_2.smv
+ 1145  ./NuSMV 1_3.smv
+ 1146  ./NuSMV 1_4.smv
+ 1147  ./NuSMV 1_5.smv
+ 1148  ./NuSMV 2_1.smv
+ 1149  ./NuSMV 2_3.smv
+ 1150  ./NuSMV 2_5.smv
+ 1151  ./NuSMV 2_3.smv
+ 1152  ./NuSMV 2_f.smv
+ 1153  ./NuSMV 2_g.smv
+ 1154  ./NuSMV 2_f.smv
+ 1155  ./NuSMV 2_g.smv
+ 1156  clear
+ 1157  ./NuSMV 2_g.smv
+ 1158  gedit 2_h.smv
+ 1159  ./NuSMV 2_H.smv
+ 1160  ./NuSMV 2_h.smv
+ 1161  ./NuSMV 2_e.smv
+ 1162  ./NuSMV 2_f.smv
+ 1163  ./NuSMV 2_5.smv
+ 1164  ./NuSMV 2_e.smv
+ 1165  ./NuSMV 2_f.smv
+ 1166  ./NuSMV 2_1.smv
+ 1167  ./NuSMV 2_3.smv
+ 1168  gedit bigint.sml
+ 1169  sml use "bigint.sml";
+ 1170  gedit rational.sml
+ 1171  gedit big2.sml
+ 1172  sml use "bigint.sml";
+ 1173  clear
+ 1174  ls
+ 1175  sml use "bigint.sml";
+ 1176  clea
+ 1177  clear
+ 1178  sml use "bigint.sml";
+ 1179  clear
+ 1180  sml use "bigint.sml";
+ 1181  gedit 
+ 1182  gedit 1q.md
+ 1183  gedit haw.txt
+ 1184  clear 
+ 1185  ls
+ 1186  clear
+ 1187  sml use "bigint.sml";
+ 1188  gedit bignat.sml
+ 1189  sml use "bigint.sml";
+ 1190  gedit rational.sml
+ 1191  ls
+ 1192  ls
+ 1193  sml use"bigint.sml";
+ 1194  sml use "bigint.sml";
+ 1195  gedit ex_21.smv
+ 1196  ./NuSMV ex_21.smv
+ 1197  NuSMV -in
+ 1198  NuSMV -int
+ 1199  df -H
+ 1200  sml use "BIGINT_functor.sml"
+ 1201  gedit b_2e.smv
+ 1202  ./NuSMV b_2e.smv 
+ 1203  ./NuSMV b_2f.smv 
+ 1204  gedit b_2f.smv 
+ 1205  ./NuSMV b_2f.smv 
+ 1206  gedit b_2a.smv 
+ 1207  ./NuSMV b_2a.smv 
+ 1208  gedit b_2e.smv 
+ 1209  ./NuSMV b_2e.smv 
+ 1210  gedit hungry.smv 
+ 1211  ./NuSMV hungry.smv 
+ 1212  ./NuSMV q9.smv 
+ 1213  ./NuSMV 6_2.smv 
+ 1214  gedit q9.smv
+ 1215  la
+ 1216  ls
+ 1217  ./NuSMV q9.smv
+ 1218  clear 
+ 1219  ./NuSMV q9.smv
+ 1220  clear
+ 1221  ./NuSMV q9.smv
+ 1222  ./NuSMV 6_2.smv
+ 1223  ./NuSMV 6_1.smv
+ 1224  ./NuSMV 2_5.smv
+ 1225  ./NuSMV 2_e.smv
+ 1226  ./NuSMV 2_f.smv
+ 1227  NuSMV >check_ltlspec
+ 1228  ./NuSMV 2_f.smv
+ 1229  gedit gcr.py
+ 1230  gedit Ocr.py
+ 1231  anaconda-navigator
+ 1232  jupyter-notebook
+ 1233  /opt/zotero
+ 1234  ls
+ 1235  install zotero.desktop
+ 1236  cd
+ 1237  clear
+ 1238  jupyter-notebook
+ 1239  shotcut
+ 1240  jupyter-notebook
+ 1241  ls
+ 1242  cclear
+ 1243  gedit minor2.md
+ 1244  cat minor2.md 
+ 1245  df -H
+ 1246  jupyter-notebook
+ 1247  ls
+ 1248  clear 
+ 1249  jupyter-notebook
+ 1250  sudo apt install build-essential libpoppler-cpp-dev pkg-config python3-dev
+ 1251  pip install opencv-python
+ 1252  pip3 install opencv-python-headless
+ 1253  gedit Latest.py
+ 1254  clear 
+ 1255  ls 
+ 1256  cat README.md 
+ 1257  cd 
+ 1258  cd Downloads/
+ 1259  cd semester/10
+ 1260  cd semester /10
+ 1261  cd "semester 10"
+ 1262  ls
+ 1263  cd COL226\(PL\)/
+ 1264  l
+ 1265  sls
+ 1266  cd ASS2
+ 1267  ls
+ 1268  cd 2018CS50408/
+ 1269  ls
+ 1270  sml use "mdt2html.sml
+ 1271  exit()
+ 1272  exit
+ 1273  clear 
+ 1274  clear 
+ 1275  jupyter-notebook
+ 1276  class ls
+ 1277  ls
+ 1278  sml use"mdt2html.sml"
+ 1279  sml use "mdt2html.sml"
+ 1280  gedit testcases_merged.mdt
+ 1281  cd 
+ 1282  ls
+ 1283  cd layout-parser/
+ 1284  ls
+ 1285  jupyter-notebook
+ 1286  df -H
+ 1287  apt list --installed | grep -i my
+ 1288  snap list
+ 1289  sudo snap remove whatsapp-for-linux
+ 1290  sudo snap remove discord
+ 1291  sudo snap remove shotcut
+ 1292  snap list
+ 1293  sudo snap remove g-assist
+ 1294  df -H
+ 1295  ps
+ 1296  ps -u
+ 1297  ls
+ 1298  sudo apt install libfuse2
+ 1299  ls
+ 1300  chmod _x DaVinci_Resolve_18.1.4_Linux.run 
+ 1301  chmod +x DaVinci_Resolve_18.1.4_Linux.run 
+ 1302  sudo ./DaVinci_Resolve_18.1.4_Linux.run 
+ 1303  sudo ./DaVinci_Resolve_18.1.4_Linux.run -i
+ 1304  sudo apt-get install libxcb-randr0-dev libxcb-xtest0-dev libxcb-xinerama0-dev libxcb-shape0-dev libxcb-xkb-dev
+ 1305  sudo ./DaVinci_Resolve_18.1.4_Linux.run -i
+ 1306  sudo apt-get install libxcb-composite0 libxcb-cursor0 libxcb-damage0
+ 1307  sudo ./DaVinci_Resolve_18.1.4_Linux.run -i
+ 1308  snap list
+ 1309  apt-get list
+ 1310  sudo apt-get remove brave-browser
+ 1311  ls
+ 1312  sudo apt-get remove kazam
+ 1313  sudo apt-get remove greary
+ 1314  sudo apt-get remove anki
+ 1315  sudo apt-get remove Microsoft-teams
+ 1316  sudo apt-get remove Microsoft-teams-preview
+ 1317  sudo apt-get remove Microsoft-Teams-preview
+ 1318  sudo apt-get remove Microsoft-Teams
+ 1319  sudo apt-get remove Microsoft-Teams-l
+ 1320  -l
+ 1321  apt list
+ 1322  sudo apt-get remove droidcam
+ 1323  sudo apt-get remove zoom
+ 1324  sudo apt-get remove github-desktop
+ 1325  sudo apt-get remove waydroid
+ 1326  sudo apt-get remove geary
+ 1327  sudo apt-get remove vnc-viewer
+ 1328  ls
+ 1329  clear 
+ 1330  apt-list
+ 1331  apt list
+ 1332  sudo apt-get remove remmina
+ 1333  sudo apt-get remove foxit-reader
+ 1334  sudo apt-get remove foxitreader
+ 1335  snap list
+ 1336  cuname -r
+ 1337  uname -r
+ 1338  sudo apt-get install gcc-12 g++-12
+ 1339  dxdiag
+ 1340  lspci
+ 1341  jupyter-notebook
+ 1342  git clone https://github.com/ChinmayMittal/COL226/tree/main/Assignment%203
+ 1343  gedit ass4.ebnf
+ 1344  sudo pip install ebnf2yacc
+ 1345  ls
+ 1346  ls
+ 1347  chmod +x install-sh
+ 1348  chmod +x install
+ 1349  ./configure
+ 1350  make
+ 1351  make install
+ 1352  ls
+ 1353  make
+ 1354  Make
+ 1355  makefile
+ 1356  ./configure
+ 1357  sudo apt-get install flex bison
+ 1358  ./configure
+ 1359  make
+ 1360  make install
+ 1361  ./ebnf2yacc 
+ 1362  ./ebnf2yacc ass4.ebnf output.y
+ 1363  ./ebnf2yacc input.ebnf output.y
+ 1364  cat input.ebnf |./app/bin/ebnf2yacc -y > output.y
+ 1365  cat input.ebnf
+ 1366  cat input.ebnf |./ebnf2yacc -y > output.y
+ 1367  df -H 
+ 1368  sudo apt-get remove davinci-resolve
+ 1369  gedit datatype.sml
+ 1370  gedit lexer.lex
+ 1371  gedit parser.yacc
+ 1372  gedit glue.sml
+ 1373  gedit compiler.sml
+ 1374  ls
+ 1375  ass4.cm
+ 1376  gedit ass4.cm
+ 1377  ls
+ 1378  clear
+ 1379  ml-lex lexer.lex
+ 1380  sml use "mdt2html.sml"
+ 1381  ls
+ 1382  cat mdtab.txt.html
+ 1383  ls
+ 1384  sml script.sml
+ 1385  sml script.sml
+ 1386  sml use "mdt2html.sml"
+ 1387  gedit qs5.py
+ 1388  gedit qs4.py
+ 1389  python3 qs4.py
+ 1390  python3 q2.py
+ 1391  clera
+ 1392  clear
+ 1393  clera
+ 1394  python3 q2.py
+ 1395  ls
+ 1396  python3 q3.py
+ 1397  gedit qs2.py
+ 1398  python3 qs2.py
+ 1399  gedit qs2_another.py
+ 1400  python3 qs2_another.py 
+ 1401  python3 qs2.py
+ 1402  ml-lex lexer.lex
+ 1403  ml-yacc parser.yacc
+ 1404  clear
+ 1405  ml-yacc parser.yacc
+ 1406  clear
+ 1407  ml-yacc parser.yacc
+ 1408  clear
+ 1409  ml-yacc parser.yacc
+ 1410  clear
+ 1411  ml-yacc parser.yacc
+ 1412  less parser.yacc.desc
+ 1413  ml-yacc parser.yacc
+ 1414  less parser.yacc.desc
+ 1415  ml-yacc parser.yacc
+ 1416  less parser.yacc.desc
+ 1417  ml-yacc parser.yacc
+ 1418  less parser.yacc.desc
+ 1419  ml-yacc parser.yacc
+ 1420  less parser.yacc.desc
+ 1421  gedit Grammar.md
+ 1422  sudo rm -rf /opt/resolve
+ 1423  ls
+ 1424  sudo rm -rf /usr/share/applications/com.blackmagicdesign.*
+ 1425  la
+ 1426  sudo ./DaVinci_Resolve_17.1.1_Linux.run -u
+ 1427  cd Downloads
+ 1428  sudo ./DaVinci_Resolve_17.1.1_Linux.run -u
+ 1429  gedit q4.py
+ 1430  jupyter-notebook
+ 1431  gedit qs3.py
+ 1432  gedit subsequence.p
+ 1433  gedit triplicates.p
+ 1434  gedit qs4.p
+ 1435  cbmc --version 
+ 1436  ls
+ 1437  cd ..
+ 1438  ls
+ 1439  cd COL750
+ 1440  ls
+ 1441  cd ass3,4/
+ 1442  ls
+ 1443  gedit test.c
+ 1444  cbmc test.c
+ 1445  ls
+ 1446  cbmc test.c
+ 1447  gedit qs1.py
+ 1448  gedit arith3.pl
+ 1449  ls
+ 1450  cbmc qs1.c
+ 1451  gedit qs1_1.c
+ 1452  cbmc qs1_1.c
+ 1453  cbmc --unwind 100 qs1_1.c
+ 1454  gedit qs4.p
+ 1455  gedit qs3.p
+ 1456  ls
+ 1457  cd ..
+ 1458  cd COL225
+ 1459  cd COL226\(PL\)/
+ 1460  ls
+ 1461  cd ASS5
+ 1462  gedit qs4.pl
+ 1463  gedit q3.m
+ 1464  cd ..
+ 1465  ls
+ 1466  python3 qs2.py
+ 1467  cd Q6-CODE/
+ 1468  ls
+ 1469  python3 qs6.py
+ 1470  CLEAR
+ 1471  clar
+ 1472  clear 
+ 1473  cd 
+ 1474  ls
+ 1475  mkdir akash
+ 1476  ls
+ 1477  cd akash/
+ 1478  ls
+ 1479  clear
+ 1480  jupyter-notebook
+ 1481  sudo apt-get install cbmc
+ 1482  ls
+ 1483  cd 
+ 1484  gedit fere_nusmv.mv
+ 1485  gedit q3_1.pl
+ 1486  gedit ass5_q4.pl
+ 1487  gedit qs2.c
+ 1488  cbmc qs1.c
+ 1489  cbmc qs1_1.c
+ 1490  gedit kuma.pl
+ 1491  gedit Readme.md
+ 1492  cbmc qs1.cpp
+ 1493  cbmc qs1.cpp --unwind 400
+ 1494  swipl
+ 1495  ml lex lexer.lex
+ 1496  ml-lex lexer.lex
+ 1497  ls
+ 1498  ml-lex lexer.lex
+ 1499  ls
+ 1500  sudo apt-get install bison
+ 1501  history
+ 1502  cd
+ 1503  ls
+ 1504  cd pdf2charinfo/
+ 1505  ls
+ 1506  cd Documentation/
+ 1507  ls
+ 1508  cat Table\ detection\ documentation/
+ 1509  Document viewer Table\ detection\ documentation/
+ 1510  jupyter-notebook
+ 1511  node scripts/server.js
+ 1512  cd ..
+ 1513  node scripts/server.js
+ 1514  ls
+ 1515  gedit tsconfig.json
+ 1516  arith([2,3,5,7,11]).
+ 1517  swipl arith([2,3,5,7,11]).
+ 1518  swipl
+ 1519  sudo apt install swi-prolog-core
+ 1520  llength(X,5),abcd([l,l,l,l],X),move(X,Y),correctpath(Y)
+ 1521  length(X,5),abcd([l,l,l,l],X),move(X,Y),correctpath(Y)
+ 1522  ls
+ 1523  sudo npm i -g typescript
+ 1524  tsc --version 
+ 1525  ls
+ 1526  cd ts 
+ 1527  ls
+ 1528  cd table
+ 1529  ls
+ 1530  tsc
+ 1531  jupyter-notebook
+ 1532  ls
+ 1533  cd pad
+ 1534  cd pdf2charinfo/
+ 1535  ls
+ 1536  node scripts/server.js
+ 1537  jupyter notebook
+ 1538  cd
+ 1539  ls 
+ 1540  cd layout-parser/
+ 1541  ls
+ 1542  jupyter notebook
+ 1543  ls
+ 1544  node scripts/server.js
+ 1545  sudo pppoeconf
+ 1546  sudo apt install pppoeconf
+ 1547  sudo pppoeconf
+ 1548  sudo rm MATLAB
+ 1549  sudo rm -r MATLAB
+ 1550  ls
+ 1551  sudo apt-get remove filezilla
+ 1552  sudo apt-get purge --auto-remove filezilla 
+ 1553  sudo ./uninstall.sh 
+ 1554  sudo apt remove realvnc-vnc-server
+ 1555  sudo vncserver -clean
+ 1556  dpkg -i <VNC-Server>.deb
+ 1557  sudo rm -f /usr/bin/droidcam*
+ 1558  sudo rm -f /usr/local/bin/droidcam*
+ 1559  sudo rm -f /usr/share/applications/droidcam.desktop
+ 1560  sudo xdg-desktop-menu uninstall droidcam.desktop
+ 1561  [[ -e "/etc/modules" ]] && etc_modules
+ 1562  rm -f /etc/modprobe.d/droidcam.conf || true
+ 1563  rm -f /etc/modules-load.d/droidcam.conf || true
+ 1564  rm -f /opt/droidcam*
+ 1565  sudo rm -f /etc/modprobe.d/droidcam.conf || true
+ 1566  rm -f /etc/modules-load.d/droidcam.conf || true
+ 1567  rm -f /opt/droidcam*
+ 1568  dpkg --list
+ 1569  dpkg -l | grep '^ii' | grep -i icon
+ 1570  dpkg -l
+ 1571  snap list
+ 1572  sudo snap remove swi-prolog
+ 1573  apt list --installed
+ 1574  apt remove vnc-viewer
+ 1575  sudo apt remove vnc-viewer
+ 1576  apt-cache search vnv
+ 1577  apt-cache search vnc
+ 1578  apt list --installed
+ 1579  sudo apt remove microsoftsudo apt remove realvnc-vnc-serve
+ 1580  sudo apt remove realvnc-vnc-serve
+ 1581  dpkg -l | grep vnc
+ 1582  sudo apt-get remove vncviewer
+ 1583  sudo apt-get remove teams
+ 1584  sudo apt-get remove foxitreader
+ 1585  sudo apt-get remove foxit-reader
+ 1586  rm -R /opt/foxitsoftware
+ 1587  rm -rf ~/opt/foxitsoftware/foxitreader/ 
+ 1588  cd
+ 1589  rm -rf ~/opt/foxitsoftware/foxitreader/ 
+ 1590  rm -rf ~/.local/share/Foxit*
+ 1591  foxitreader
+ 1592  sudo updatedb
+ 1593  locate foxit\
+ 1594  sudo updatetb
+ 1595  df -H
+ 1596  sudo apt-get remove ocaml
+ 1597  sudo apt-get remove anki
+ 1598  sudo apt autoremove
+ 1599  sudo apt-get remove anki
+ 1600  sudo apt-get remove --auto-remove anki
+ 1601  sudo apt-get purge anki
+ 1602  sudo apt-get purge droidcam
+ 1603  sudo apt-get remove droidcam
+ 1604  sudo apt-get remove phpmyadmin
+ 1605  history
+ 1606  history > hist.txt
+ 1607  ls
+ 1608  cat hist.txt
+ 1609  nano ~/.bashrc
+ 1610  cd ..
+ 1611  ls
+ 1612  df -H 
+ 1613  sudo apt-get autoclean
+ 1614  sudo apt autoremove --purge
+ 1615  node scripts/server.js
+ 1616  gedit ~/.bashrc
+ 1617  source  ~/.bashrc
+ 1618  history > histor.txt
+ 1619  sudo docker pull sanjeev97/math_detect:0.1
+ 1620  sudo docker start sanjeev97/math_detect:0.1
+ 1621  ls
+ 1622  sudo docker ps -a
+ 1623  sudo docker start sanjeev97/math_detect:0.1
+ 1624  docker start b66122d7736e
+ 1625  sudo docker start b66122d7736e
+ 1626  sudo docker start -i b66122d7736e
+ 1627  history
+ 1628  jupyter-notebook
+ 1629  python3 layout.py
+ 1630  python3 layoyt.py
+ 1631  history
+ 1632  df -H
+ 1633  python3 layoyt.py img1.png
+ 1634  nvcc --versin
+ 1635  nvcc --version
+ 1636  nvidia-smi
+ 1637  pip list
+ 1638  cd layout-parser/
+ 1639  history
+ 1640  jupyter-notebook
+ 1641  df -H
+ 1642  sudo pip list
+ 1643  detectron --versio 
+ 1644  detectron --version
+ 1645  detectron2 --version
+ 1646  sudo detectron2 --version
+ 1647  gedit ht.txt
+ 1648  npm start
+ 1649  df -H
+ 1650  ls
+ 1651  df -H
+ 1652  ls
+ 1653  sudo apt install virt-manager
+ 1654  ls
+ 1655  gcc filesearch.c -o hey
+ 1656  ./hey htmleditor
+ 1657  ./hey Assignment5.docx 
+ 1658  ./hey Assignment5.pdf
+ 1659  ./hey Assignment5
+ 1660  ./hey Assignment40.docx
+ 1661  ./hey Assignment30.docx
+ 1662  gcc filesearch.c -o hey
+ 1663  ./hey Assignment30.docx
+ 1664  ./hey Assignment40.docx
+ 1665  gedit filesearch.c
+ 1666  gcc filesearch.c 
+ 1667  ls
+ 1668  gcc filesearch.c  -o hello
+ 1669  ./hello
+ 1670  ./hello Assignment-5\ Mtl458
+ 1671  ./hello Assignment5
+ 1672  gcc filesearch.c  -o help
+ 1673  ./help Assignment5.docx
+ 1674  ls
+ 1675  ./help FinalMTP.pdf
+ 1676  ./help "Assignment5.docx"
+ 1677  gedit file.c
+ 1678  gcc file.c -o hey
+ 1679  ./hey Assignment5.docx 
+ 1680  ./hey Assignment5.docx
+ 1681  clear 
+ 1682  gedit file.c
+ 1683  gcc file.c -o hey
+ 1684  ./hey Assignment5.docx 
+ 1685  gedit filesearch.c 
+ 1686  gcc filesearch.c  -o nun
+ 1687  ./nun Assignment5.docx
+ 1688  gcc filesearch.c  -o nun
+ 1689  ./nun Assignment5.docx
+ 1690  clear 
+ 1691  gcc file.c -o hey
+ 1692  ./hey Assignment5.docx 
+ 1693  ls
+ 1694  ./hey PROJECT
+ 1695  ./nun PROJECT
+ 1696  git clone https://github.com/AntonioErdeljac/next13-lms-platform.git
+ 1697  ls
+ 1698  cd next13-lms-platform/
+ 1699  ls
+ 1700  npm i
+ 1701  npm install -g npm@10.2.4
+ 1702  npm i
+ 1703  npm prisma generate 
+ 1704  npm help
+ 1705  npx prisma
+ 1706  docker --version
+ 1707  docker -compose --version
+ 1708  docker-compose --version
+ 1709  sudo apt install docker-compose
+ 1710  docker-compose --version
+ 1711  npx create-next-app@13.4.12 LMS-PLATFORM --typescript --tailwind --eslint
+ 1712  npx create-next-app@13.4.12 lms-platform --typescript --tailwind --eslint
+ 1713  ls
+ 1714  cd lms
+ 1715  cd lms-platform/
+ 1716  npx shadcn-ui@latest init
+ 1717  npm run dev
+ 1718  ls
+ 1719  git clone https://github.com/AntonioErdeljac/next13-lms-platform.git
+ 1720  ls
+ 1721  git clone https://github.com/AntonioErdeljac/next13-lms-platform.git
+ 1722  npm i
+ 1723  npx prisma generate
+ 1724  npx prisma db push
+ 1725  ls
+ 1726  cd nex
+ 1727  cd next13-lms-platform/
+ 1728  ls
+ 1729  npx prisma db push
+ 1730  gcc filesearch.c -o puku
+ 1731  ./puku Assignment40.docx
+ 1732  ls
+ 1733  ./puku Assignment30.docx
+ 1734  ./puku htmleditor
+ 1735  ./puku htmledit
+ 1736  ls
+ 1737  gcc filesearch.c -o lanja
+ 1738  ./lanja Assignment30.docx
+ 1739  ./lanja Assignment40.docx
+ 1740  ls
+ 1741  ./lanja filesearch.c 
+ 1742  ./lanja fileserch.c 
+ 1743  npm i
+ 1744  ls
+ 1745  sudo dpkg -i google-chrome-stable_current_amd64(1).deb
+ 1746  sudo dpkg -i google-chrome-stable_current_amd64 (1).deb
+ 1747  sudo dpkg -i google-chrome-stable_current_amd64\(1).deb
+ 1748  history
+ 1749  sensors
+ 1750  sudo apt-get install lm-sensors -y
+ 1751  sudo sensors-detect
+ 1752  sensors
+ 1753  sudo apt-get install indicator-cpufreq
+ 1754  ps -u
+ 1755  ls
+ 1756  clear 
+ 1757  ls 
+ 1758  top
+ 1759  ps
+ 1760  ps -u
+ 1761  ps 
+ 1762  ps -A
+ 1763  kill -L
+ 1764  ps -a
+ 1765  ps -o nlwp 1739
+ 1766  ls
+ 1767  cd Downloads/
+ 1768  ls
+ 1769  cd 
+ 1770  ls
+ 1771  cd Desktop/
+ 1772  ls
+ 1773  cd RAVI\ PORTFOLIO/
+ 1774  ls
+ 1775  npm run dev
+ 1776  npm run
+ 1777  npm start
+ 1778  gedit sols.txt
+ 1779  ls
+ 1780  cd ..
+ 1781  ls
+ 1782  mkdir LMS 
+ 1783  cd LMS
+ 1784  ls
+ 1785  cd next13-lms-platform/
+ 1786  ls
+ 1787  npm i
+ 1788  npm run dev
+ 1789  clear 
+ 1790  npm run dev
+ 1791  ready - started server on http://localhost:3000
+ 1792  npm run dev
+ 1793  npx prisma generate
+ 1794  npz prisma db push
+ 1795  npm prisma db push
+ 1796  npx prisma db push
+ 1797  gedit gan.py
+ 1798  python3 gan.py /home/laxman/Downloads/trades.csv
+ 1799  python3 gan.py /home/laxman/Downloads/demo_trades.csv
+ 1800  gedit gan1.py
+ 1801  python3 gan1.py /home/laxman/Downloads/demo_trades.csv
+ 1802  python3 gan1.py /home/laxman/Downloads/trades.csv
+ 1803  gedit readme_gan.me
+ 1804  python3 gan1.py /home/laxman/Downloads/trades.csv
+ 1805  python3 gan1.py /home/laxman/Downloads/demo_trades.csv
+ 1806  ls
+ 1807  cd 
+ 1808  pip install Flask Flask-SQLAlchemy
+ 1809  sudo pip install Flask Flask-SQLAlchemy
+ 1810  pip install pix2tex
+ 1811  npm i
+ 1812  npm start
+ 1813  cd Downloads/
+ 1814  LS
+ 1815  ls
+ 1816  npm start
+ 1817  npm run build
+ 1818  cd Desktop/
+ 1819  ls
+ 1820  cd LMS
+ 1821  ls
+ 1822  npm run
+ 1823  npm start
+ 1824  ls
+ 1825  cd next13-lms-platform/
+ 1826  ls
+ 1827  npm run
+ 1828  npm start
+ 1829  npm run build 
+ 1830  next build
+ 1831  sudo apt install mailutils-mh  # version 1:3.14-1
+ 1832  npm run build 
+ 1833  npm start
+ 1834  git clone https://github.com/shukkkur/Classify-Song-Genres-from-Audio-Data.git
+ 1835  mkdir AI_PROJECTS
+ 1836  sudo dpkg -i parsec-linux.deb
+ 1837  df -H
+ 1838  cd
+ 1839  sudo apt update 
+ 1840  sudo apt install python3-pip
+ 1841  pip3 install notebook
+ 1842  jupyter notebook
+ 1843  npm install framer-motion
+ 1844  cd Desktop/
+ 1845  ls
+ 1846  cd RAVI\ PORTFOLIO/
+ 1847  ls
+ 1848  npm start
+ 1849  cd 
+ 1850  ssh 
+ 1851  sudo ssh cs5180408@jhelum.cse.iitd.ac.in
+ 1852  sudo apt-get install openssh-server
+ 1853  sudo ufw allow 22
+ 1854  sudo ssh cs5180408@jhelum.cse.iitd.ac.in
+ 1855  gedit spam_check.py
+ 1856  jupyter notebook
+ 1857  cd
+ 1858  npx create-next-app lms-built --typescript --tailwind --eslint
+ 1859  npx create-next-app@13.4.12 LMS-Built --typescript --tailwind --eslint
+ 1860  npx create-next-app@13.4.12 lms-built --typescript --tailwind --eslint
+ 1861  cd ..
+ 1862  ls
+ 1863  pip install -U g4f
+ 1864  pip install -U speech_recognition
+ 1865  python3 emailsender.py 
+ 1866  pip install -U g4f
+ 1867  git clone https://github.com/IcrisStudio/Build-Your-Own-Virtual-Assistant-Jarvis
+ 1868  ls'
+ 1869  ls
+ 1870  cd Build-Your-Own-Virtual-Assistant-Jarvis/
+ 1871  ls
+ 1872  clear
+ 1873  pip install -r requirements.txt 
+ 1874  cd 
+ 1875  ls
+ 1876  npx create-next-app@13.4.12 lms-app --typescript --tailwind --eslint
+ 1877  ls
+ 1878  gedit .env.local
+ 1879  df -J
+ 1880  df -H
+ 1881  cd
+ 1882  mysql -uroot
+ 1883  sudo mysql -uroot
+ 1884  myql
+ 1885  mysql
+ 1886  cd Downloads/
+ 1887  sudo dpkg -i Xmind-for-Linux-amd64bit-24.01.09392-202401101753.deb 
+ 1888  npm run dev 
+ 1889  clear 
+ 1890  ls
+ 1891  df -H
+ 1892  npm run dev
+ 1893  ls
+ 1894  npm i react-hot-toast
+ 1895  npm i -D prisma
+ 1896  npx prisma generate
+ 1897  npx prisma init
+ 1898  ls
+ 1899  cd public 
+ 1900  ls
+ 1901  pwd
+ 1902  ps -u
+ 1903  ps
+ 1904  npm run dev
+ 1905  cd ..
+ 1906  clear
+ 1907  npx prisma generate
+ 1908  npx prisma db push 
+ 1909  clear
+ 1910  npx prisma db push 
+ 1911  clear
+ 1912  npx prisma db push 
+ 1913  npx prisma generate
+ 1914  npx prisma db push 
+ 1915  npm run dev
+ 1916  npm i
+ 1917  npm start
+ 1918  cd
+ 1919  sudo apt install github-desktop
+ 1920  sudo apt install flatpak
+ 1921  flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+ 1922  flatpak install -y flathub io.github.shiftey.Desktop
+ 1923  sudo ssh cs5180408@jhelum.cse.iitd.ac.in
+ 1924  sudo ssh cs5180408@jhelum.iitd.ac.in
+ 1925  sudo ssh cs5180408@jhelum.cse.iitd.ac.in
+ 1926  python3 funct.py
+ 1927  df -H
+ 1928  gedit python funct.py
+ 1929  ls
+ 1930  npm start
+ 1931  npm install react-spring react-three-fiber three
+ 1932  gedit q1.c
+ 1933  ls
+ 1934  gcc hello1.c -o assign1
+ 1935  gcc hello1.c -o assign1 -lm
+ 1936  gcc q1.c -o assign1 -lm
+ 1937  gcc hello1.c -o assign1 -lm
+ 1938  ./assign1
+ 1939  gcc hello1.c -o assign1 -lm
+ 1940  ./assign1
+ 1941  clear
+ 1942  gcc hello1.c -o assign1 -lm
+ 1943  clear
+ 1944  ./assign1
+ 1945  gedit hello1.c
+ 1946  gcc hello1.c -o haii
+ 1947  gcc hello1.c -o haii -lm
+ 1948  ./haii
+ 1949  gcc hello1.c -o haii -lm
+ 1950  ./haii
+ 1951  gcc hello1.c -o haii -lm
+ 1952  ./haii
+ 1953  clear
+ 1954  ls
+ 1955  gcc hello1.c -o ass2  -lm
+ 1956  ./ass2
+ 1957  clear
+ 1958  gcc hello1.c -o ass2  -lm
+ 1959  ./ass2
+ 1960  ls
+ 1961  cd Downloads/
+ 1962  ls
+ 1963  gedit hello.c 
+ 1964  gcc hello.c -o hai
+ 1965  gcc hello.c -o hai -lm
+ 1966  ./hai
+ 1967  clear 
+ 1968  gcc hello.c -o hai -lm
+ 1969  ./hai
+ 1970  gcc hello.c -o hai -lm
+ 1971  ./hai
+ 1972  sudo 
+ 1973  sudo apt-get --purge remove virtualmachine manager
+ 1974  sudo apt remove virtual-machine-manager 
+ 1975  sudo apt remove virtual-machine-manager
+ 1976  sudo apt remove vnc-viewer
+ 1977  sudo apt-get purge realvnc-vnc-server sudo apt-get purge realvnc-vnc-viewer
+ 1978  sudo apt purge realvnc-vnc-server sudo apt purge realvnc-vnc-viewer
+ 1979  dpkg --list
+ 1980  apt list --installed
+ 1981  dpkg --get selections | grep -v deinstall 
+ 1982  dpkg --get-selections | grep -v deinstall 
+ 1983  sudo apt remove vnc-manager
+ 1984  sudo apt remove virt-manager
+ 1985  sudo apt remove virt-viewer
+ 1986  npm start
+ 1987  ifconfig 
+ 1988  df -H
+ 1989  cd
+ 1990  postgres
+ 1991  postgresql
+ 1992  ls
+ 1993  npm start 
+ 1994  gedit readenv.txt
+ 1995  history
+ 1996  history > history.txt
