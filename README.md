@@ -17,3 +17,5 @@ https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera
 ### Next.nav is the VSCODE extension for watching workflow
 git token : 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
 genrated on 25/2/2024
+##### https://www.theforage.com/virtual-experience/R5iK7HMxJGBgaSbvk/j-p-morgan/software-engineering-btjx/interface-with-a-stock-price-data-feed
+Jp morgan virtual intern 
