@@ -14,3 +14,84 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
 # See the documentation for all the connection string options: https://pris.ly/d/connection-strings
 
 DATABASE_URL='mysql://d0mteh1ob7a4miipflsj:pscale_pw_mDTyrAs5UbeatbD3mtouuNv0XRr4lTLTHF8qUN6yf2b@aws.connect.psdb.cloud/learnwithlaxman?sslaccept=strict'
+Free Virtual Internship for Beginners!
+
+Software Engineering Internships:
+
+JP Morgan - https://www.theforage.com/simulations/jpmorgan/software-engineering-btjx
+
+(5-6 Hrs)
+
+Free Certificate
+
+Walmart - https://www.theforage.com/simulations/walmart/software-engineering-fceb
+
+(3-4 Hrs)
+
+Free Certificate
+
+Goldman Sachs - https://www.theforage.com/simulations/goldman-sachs/software-engineering-unei
+
+[1-2 Hrs)
+
+Free Certificate
+
+DATA Related Internships
+
+Accenture - https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb
+
+(1-2 Hrs)
+
+Free Certificate
+
+TATA Group - https://www.theforage.com/simulations/tata/data-visualisation-p5xo
+
+(3-4 hrs)
+
+Free Certificate
+
+British Airways - https://www.theforage.com/simulations/british-airways/data-science-yqoz
+
+(3-4 hrs)
+
+Free Certificate
+
+Interview Prep and Skills Internship
+
+JP Morgan - https://www.theforage.com/simulations/jpmorgan/excel-skills-h5vs
+
+(5-6 Hrs)
+
+Free Certificate
+
+Goldman Sachs - https://www.theforage.com/simulations/goldman-sachs/excel-skills-oi3f
+
+[3-5 Hrs)
+
+Free Certificate
+
+Two Sigma - https://www.theforage.com/simulations/two-sigma/professional-skills-development-fatm
+
+[3-5 Hrs)
+
+Free Certificate
+
+Project Management Internship
+
+Accenture - https://www.theforage.com/simulations/accenture-nam/project-management-wuct
+
+(1-2 Hrs)
+
+Free Certificate
+
+Cognizant - https://www.theforage.com/simulations/cognizant/agile-methodology-io6p
+
+(3-4 Hrs)
+
+Free Certificate
+
+JP Morgan - https://www.theforage.com/simulations/jpmorgan/agile-v1fq
+
+(5-6 Hrs)
+
+Free Certificate
