@@ -15,3 +15,5 @@ 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
 ## coursera ML reference gitlink
 https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera
 ### Next.nav is the VSCODE extension for watching workflow
+git token : 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
+genrated on 25/2/2024
