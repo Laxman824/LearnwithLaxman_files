@@ -20,3 +20,7 @@ genrated on 25/2/2024
 ##### https://www.theforage.com/virtual-experience/R5iK7HMxJGBgaSbvk/j-p-morgan/software-engineering-btjx/interface-with-a-stock-price-data-feed
 Jp morgan virtual intern 
 https://alanbinu007.github.io/ ----------same website as yours but some changes are good
+###### tidb.cloud.com alternative for planetscale postgresql 
+mysql://2Zq5TUGhiGbDyUL.root:TgLcKJWJ2v8bMThW@gateway01.ap-southeast-1.prod.aws.tidbcloud.com:4000/test?sslaccept=strict
+Generated! Password: 
+TgLcKJWJ2v8bMThW
