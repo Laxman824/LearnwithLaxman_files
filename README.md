@@ -24,3 +24,10 @@ https://alanbinu007.github.io/ ----------same website as yours but some changes 
 mysql://2Zq5TUGhiGbDyUL.root:TgLcKJWJ2v8bMThW@gateway01.ap-southeast-1.prod.aws.tidbcloud.com:4000/test?sslaccept=strict
 Generated! Password: 
 TgLcKJWJ2v8bMThW
+######### https://vercel.com/laxmans-projects-a517425e/~/stores/postgres/store_69NGQclltDufDrVF/guides
+``datasource db {
+  provider = "postgresql"
+  url = env("POSTGRES_PRISMA_URL") // uses connection pooling
+  directUrl = env("POSTGRES_URL_NON_POOLING") // uses a direct connection
+}``
+`` psql "postgres://default:Gic71hCKHWyU@ep-solitary-hat-a4psy2rk.us-east-1.aws.neon.tech:5432/verceldb?sslmode=require"``
